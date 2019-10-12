@@ -1,0 +1,19 @@
+{
+    "name": "quocvu/display",
+	"type": "library",
+    "description": "Demo package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "quocvu",
+            "email": "lenguyenquocvucd17tt10@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+	"autoload": {
+        "psr-0": {
+            "Display": "src/"
+        }
+    }
+}
