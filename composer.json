@@ -1,7 +1,7 @@
 {
     "name": "quocvu/display",
-	"type": "library",
     "description": "Demo package",
+	"type": "library",
     "license": "MIT",
     "authors": [
         {
